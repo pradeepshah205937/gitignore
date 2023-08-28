@@ -1,0 +1,3 @@
+hello my file is good very good
+
+add one more line to new-file.txt
