@@ -1,5 +1,0 @@
-hello my file is good very good
-
-add one more line to new-file.txt
-
-modify the new-file.txt once more and see if you can send it to origin
